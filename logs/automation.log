@@ -1,0 +1,1155 @@
+22:04:38.979 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:04:39.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:04:39.611 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:04:39.627 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:04:41.088 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:07:45.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:07:45.970 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:07:46.513 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:07:46.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:07:46.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - JFQNH@5744301115
+22:07:48.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:11:54.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:11:54.538 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:11:55.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:11:55.116 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:11:55.195 [main] INFO  testCases.TC_001_AccountRegistrationTest - ZNCMT
+22:11:55.281 [main] INFO  testCases.TC_001_AccountRegistrationTest - FUYAZ
+22:11:55.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - cFHDI@gmail.com
+22:11:55.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - 2481216515
+22:11:55.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - xnrSY@1460629993
+22:11:56.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:13:53.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:13:53.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:13:54.153 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:13:54.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:13:54.236 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: LHYDP
+22:13:54.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: HFWLM
+22:13:54.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: AnNrw@gmail.com
+22:13:54.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 7579359503
+22:13:54.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: kyCTG@8485222844
+22:13:55.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:35:10.212 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:35:10.306 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:35:10.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:35:10.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:35:10.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: UJWUU
+22:35:11.036 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: MWNBL
+22:35:11.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: yYNDR@gmail.com
+22:35:11.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 6880466718
+22:35:11.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: ALplK@0220709519
+22:35:12.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:36:08.090 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:36:08.186 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:36:09.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:36:09.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:36:09.191 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: FPIMD
+22:36:09.261 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: GAGHO
+22:36:09.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: bRcDH@gmail.com
+22:36:09.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 0537160390
+22:36:09.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: dIaWz@1888538336
+22:36:10.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:36:40.541 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:36:40.565 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+22:36:40.565 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:21) ~[test-classes/:?]
+	at testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:20) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.0.jar:7.7.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.0.jar:7.7.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+22:37:08.293 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:37:08.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:37:08.956 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:37:08.972 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:37:09.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: COULE
+22:37:09.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: IHWMB
+22:37:09.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: xzEnk@gmail.com
+22:37:09.238 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 2407164325
+22:37:09.238 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: zHTOC@6444402514
+22:37:10.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:40:57.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:40:58.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:40:58.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:40:58.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:40:58.700 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: XHTUC
+22:40:58.777 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: MQWCP
+22:40:58.876 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: hnvzq@gmail.com
+22:40:58.964 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 1831744990
+22:40:58.964 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: KHTyw@9382413639
+22:41:00.116 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:41:02.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:41:02.895 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:41:03.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:41:03.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:41:03.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: WEPLD
+22:41:03.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: WQOLJ
+22:41:03.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: NiAvj@gmail.com
+22:41:03.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 0441263189
+22:41:03.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: qMFMj@2622960303
+22:41:04.934 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:41:23.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:41:24.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:41:24.558 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:41:24.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:41:24.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: ZZPJD
+22:41:24.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: MLAII
+22:41:24.788 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: BeqYM@gmail.com
+22:41:24.856 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 1871717405
+22:41:24.856 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: bOhkF@6386531691
+22:41:25.914 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:41:30.267 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:41:30.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:41:30.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:41:30.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:41:30.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: CTLKK
+22:41:31.085 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: TNOVD
+22:41:31.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: nXfiy@gmail.com
+22:41:31.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 9034518735
+22:41:31.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: xeonZ@6884976880
+22:41:32.308 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:43:06.178 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:43:06.315 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:43:06.974 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:43:07.000 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:43:07.184 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - First Name: GXMYW
+22:43:07.264 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: EJWVI
+22:43:07.331 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Email: GhoCQ@gmail.com
+22:43:07.395 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8869720852
+22:43:07.395 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password: ooUFG@6663329138
+22:43:07.548 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:43:07.747 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:43:08.455 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:43:08.475 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:43:08.546 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - First Name: UTENL
+22:43:08.624 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: BZTNS
+22:43:08.712 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Email: rLhrp@gmail.com
+22:43:08.797 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:43:08.889 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 0121951981
+22:43:08.889 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password: SyclC@9859170685
+22:43:10.017 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+23:05:42.234 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+23:05:42.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+23:05:42.390 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+23:05:42.548 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+23:05:42.977 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+23:05:42.999 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+23:05:43.066 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - First Name: SJMXE
+23:05:43.103 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+23:05:43.120 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+23:05:43.140 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: FRROR
+23:05:43.192 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - First Name: HWHLN
+23:05:43.228 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Email: tbfeV@gmail.com
+23:05:43.290 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: KRYLC
+23:05:43.311 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 7661174415
+23:05:43.311 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password: dLnpm@7368498340
+23:05:43.382 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Email: xFvcE@gmail.com
+23:05:43.476 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 9937706159
+23:05:43.476 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password: TKgOF@4554693948
+23:05:44.579 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+23:05:44.761 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+13:07:54.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+13:07:54.604 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+13:07:55.206 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:07:55.222 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+13:07:55.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: SOLDE
+13:07:55.400 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: OVEUO
+13:07:55.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: WajTB@gmail.com
+13:07:55.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 0420749349
+13:07:55.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: PdtVP@2403001548
+13:07:56.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+13:08:16.885 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+13:08:16.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+13:08:17.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:08:17.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+13:08:17.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: BJHMU
+13:08:17.712 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: JAZQA
+13:08:17.834 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: MwYtw@gmail.com
+13:08:17.918 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8238210566
+13:08:17.918 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: iINlP@8769837105
+13:08:19.086 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+13:16:53.192 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+13:16:53.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+13:16:53.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:16:53.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+13:16:53.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: UHQYY
+13:16:54.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: XCJJG
+13:16:54.099 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: rhyUp@gmail.com
+13:16:54.181 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 7063190399
+13:16:54.181 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: Anzkl@5948864703
+13:16:55.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+13:17:51.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+13:17:51.286 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+13:17:51.842 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:17:51.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+13:17:51.932 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: SGPTV
+13:17:52.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: MTMJB
+13:17:52.212 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: ErGFL@gmail.com
+13:17:52.303 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8814281086
+13:17:52.304 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: GImhV@1879830231
+13:17:53.529 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: Your Account Has Been Created!
+13:17:53.531 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+14:04:15.817 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:04:15.913 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:06:29.885 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:06:29.979 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:08:35.027 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:08:35.133 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:08:35.470 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+14:08:35.687 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+14:09:44.326 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:09:44.423 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:09:44.778 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+14:09:44.994 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+14:11:17.945 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:11:18.040 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:11:18.397 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+14:12:16.532 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:12:16.636 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:12:17.001 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+14:14:15.003 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+14:14:15.202 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+14:14:15.549 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+14:14:16.299 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+21:45:08.160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sande\Desktop\Selenium_Projects\opencart_Project\Opencart007\master.xml"
+21:45:08.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sande\Desktop\Selenium_Projects\opencart_Project\Opencart007\master.xml
+
+21:46:30.261 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sande\Desktop\Selenium_Projects\opencart_Project\Opencart007\master.xml"
+21:46:30.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sande\Desktop\Selenium_Projects\opencart_Project\Opencart007\master.xml
+
+21:47:16.808 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+21:55:01.457 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+21:55:01.566 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+21:55:02.395 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+21:55:03.130 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+21:57:09.173 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+21:57:09.272 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+21:57:09.745 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+21:57:09.871 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+21:57:09.967 [main] INFO  testCases.TC_002_LoginTest - test@123
+21:57:10.442 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+22:03:26.364 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+22:03:26.466 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:03:26.951 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:03:27.114 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+22:03:27.192 [main] INFO  testCases.TC_002_LoginTest - test@123
+22:03:27.638 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+22:03:54.736 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+22:03:54.835 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:03:55.292 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:03:55.448 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+22:03:55.558 [main] INFO  testCases.TC_002_LoginTest - test@123
+22:03:56.014 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+22:07:48.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:07:48.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:07:49.894 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:07:49.913 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:07:49.990 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: NEIKR
+22:07:50.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: SNGVI
+22:07:50.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: pCCCF@gmail.com
+22:07:50.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - abcdefg@gmail.com
+22:07:50.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 2718400355
+22:07:50.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: unDvX@7699286963
+22:08:00.530 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Continue']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ef7243e5f6fb529ceaa0c436707dd9, findElement {value=//input[@value='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51728/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ef7243e5f6fb529ceaa0c436707dd9
+22:08:00.530 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Continue']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68ef7243e5f6fb529ceaa0c436707dd9, findElement {value=//input[@value='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51728/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 68ef7243e5f6fb529ceaa0c436707dd9
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.AccountRegistrationPage.clickContinue(AccountRegistrationPage.java:74) ~[test-classes/:?]
+	at testCases.TC_001_AccountRegistrationTest.verify_account_registration(TC_001_AccountRegistrationTest.java:68) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.0.jar:7.7.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.0.jar:7.7.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestRunner.run(TestRunner.java:602) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.7.0.jar:7.7.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) [testng-7.7.0.jar:7.7.0]
+	at org.testng.TestNG.run(TestNG.java:1067) [testng-7.7.0.jar:7.7.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) [testng-remote.jar:?]
+22:08:04.002 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+22:08:04.082 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:08:04.588 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:08:04.766 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+22:08:04.852 [main] INFO  testCases.TC_002_LoginTest - test@123
+22:08:05.422 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+15:52:54.323 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginPage *****
+15:52:54.417 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+15:52:54.741 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+15:52:54.903 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+15:52:55.022 [main] INFO  testCases.TC_002_LoginTest - test@123
+15:52:55.552 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+15:53:48.768 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+15:53:48.862 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+15:53:49.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+15:53:49.834 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+15:53:49.905 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: DVMWI
+15:53:49.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: NWIGP
+15:53:50.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: VZlDY@gmail.com
+15:53:50.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8647272420
+15:53:50.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: oyQmV@3703957067
+15:53:51.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: Your Account Has Been Created!
+15:53:51.317 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+15:54:49.363 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+15:54:49.460 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+15:54:49.839 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+15:54:50.015 [main] INFO  testCases.TC_002_LoginTest - abcdefg@gmail.com
+15:54:50.136 [main] INFO  testCases.TC_002_LoginTest - test@123
+15:54:50.772 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+15:56:45.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+15:56:45.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+15:56:47.770 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+15:56:47.788 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+15:56:47.871 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: BDFOP
+15:56:47.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: ZBHRQ
+15:56:48.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: XHWGn@gmail.com
+15:56:48.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 5402301901
+15:56:48.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: GMXie@4886637095
+15:56:57.773 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2d6ef3011273708478fb2affe5a95639, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50684}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50684/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d6ef3011273708478fb2affe5a95639
+15:57:23.293 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+15:57:23.393 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+15:57:23.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+15:57:23.958 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+15:57:24.033 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: PWTIA
+15:57:24.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: NODCA
+15:57:24.224 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: tVvOy@gmail.com
+15:57:24.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8171547172
+15:57:24.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: MHwBm@9573598492
+15:57:25.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: Your Account Has Been Created!
+15:57:25.554 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+15:58:19.701 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+15:58:19.790 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+15:58:20.142 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+15:58:20.330 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com
+15:58:20.446 [main] INFO  testCases.TC_002_LoginTest - test@123
+15:58:21.282 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+15:58:51.344 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+15:58:51.436 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+15:58:51.847 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+15:58:52.032 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com
+15:58:52.136 [main] INFO  testCases.TC_002_LoginTest - test@123
+15:58:53.090 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+16:00:39.063 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+16:00:39.175 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+16:00:40.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+16:00:40.116 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+16:00:40.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: DZNHD
+16:00:40.277 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: WCXHO
+16:00:40.384 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: ZTnPl@gmail.com
+16:00:40.476 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8206896815
+16:00:40.476 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: yFhJJ@7781694063
+16:00:51.283 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86bb6f50108196a36847e2ad1ff427d0, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51516}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51516/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 86bb6f50108196a36847e2ad1ff427d0
+16:00:57.917 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:00:58.006 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+16:00:58.456 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+16:00:58.638 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com
+16:00:58.753 [main] INFO  testCases.TC_002_LoginTest - test@123
+16:00:59.640 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+19:06:48.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:06:48.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+19:06:49.351 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+19:06:49.370 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+19:06:49.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: EGEYX
+19:06:49.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: BOADR
+19:06:49.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: KlWEJ@gmail.com
+19:06:50.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 4338594382
+19:06:50.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: GoEBM@9225935406
+19:07:00.855 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56e3710006650e5cd368ebb3abd07097, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58628}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58628/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56e3710006650e5cd368ebb3abd07097
+19:07:04.375 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:07:04.470 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+19:07:04.862 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+19:07:05.262 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com  # Test email for login
+19:07:05.609 [main] INFO  testCases.TC_002_LoginTest - test@123  # Test password for login
+19:07:06.211 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+19:08:02.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:08:02.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+19:08:03.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+19:08:03.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+19:08:03.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: BIGXC
+19:08:03.451 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: LNOOG
+19:08:03.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: dXvRt@gmail.com
+19:08:03.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 7560984587
+19:08:03.801 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: yrXuB@4965293529
+19:08:14.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06112f6ede7d3f9bf8499375bc456775, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58918/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06112f6ede7d3f9bf8499375bc456775
+19:08:18.211 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:08:18.336 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+19:08:18.823 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+19:08:19.115 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+19:08:19.301 [main] INFO  testCases.TC_002_LoginTest - test@123  
+19:08:19.918 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+19:08:47.898 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:08:48.011 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+19:08:48.505 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+19:08:48.793 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+19:08:48.969 [main] INFO  testCases.TC_002_LoginTest - test@123  
+19:08:49.286 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+19:37:36.328 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:37:36.439 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+19:37:36.829 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+19:37:37.103 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+19:37:37.309 [main] INFO  testCases.TC_002_LoginTest - test@123  
+19:37:37.868 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Customer Details *****
+19:40:28.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:40:28.129 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+19:40:28.692 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+19:40:28.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+19:40:28.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: PCHEJ
+19:40:28.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: QQQVU
+19:40:29.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: fwwTX@gmail.com
+19:40:29.232 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 5709141139
+19:40:29.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: zsbLK@7545223390
+19:40:40.247 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06333c84b58cdc361dc39fa651935ce2, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62656}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62656/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06333c84b58cdc361dc39fa651935ce2
+19:49:03.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:49:03.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+19:49:04.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+19:49:04.054 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+19:49:04.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: TKUNK
+19:49:04.277 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: NUPUS
+19:49:04.491 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: EJGsu@gmail.com
+19:49:04.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 5645576592
+19:49:04.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: GsOBY@3464310364
+19:49:15.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e57a24333982730fd0dfa61cc884333a, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63554}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63554/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e57a24333982730fd0dfa61cc884333a
+19:50:34.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:50:34.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+19:50:35.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+19:50:35.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+19:50:35.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: QQUZG
+19:50:35.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: USHVK
+19:50:36.020 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: ygeJL@gmail.com
+19:50:36.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8803573922
+19:50:36.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: fcWPX@0171280731
+19:50:47.076 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45b46fff541c5f49d751d0883984185, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63816}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63816/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b45b46fff541c5f49d751d0883984185
+20:23:56.445 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+20:23:56.555 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+20:23:56.937 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+20:23:57.197 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+20:23:57.398 [main] INFO  testCases.TC_002_LoginTest - test@123  
+20:23:58.020 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+20:23:58.020 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:06:07.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:06:07.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:06:08.198 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:06:08.217 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:06:08.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: ZHWHY
+22:06:08.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: VDKRZ
+22:06:08.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: cEClO@gmail.com
+22:06:08.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 0569441546
+22:06:08.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: gOyeG@7302081415
+22:06:19.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6706c1f944e1b2da1a8cb9e6269cd73e, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56846/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6706c1f944e1b2da1a8cb9e6269cd73e
+22:06:19.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:06:23.363 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:06:23.452 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:06:23.942 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:06:24.240 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:06:24.427 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:06:25.096 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:06:25.097 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:08:08.166 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:08.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:08.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.122 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.224 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.250 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.361 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.413 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:08:09.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:08:09.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:08:09.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:48.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:48.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:48.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.330 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.331 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.356 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:11:49.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:11:49.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:11:49.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:33.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:25:33.316 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:25:33.992 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:25:34.010 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:25:34.088 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: SRBAO
+22:25:34.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: RADXG
+22:25:34.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: hrkjG@gmail.com
+22:25:34.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 1310179461
+22:25:34.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: gmgoY@9009371122
+22:25:45.321 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d3dced69e25a9827a37022953fa4466, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59826}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59826/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d3dced69e25a9827a37022953fa4466
+22:25:45.321 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:25:48.395 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:25:48.504 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:25:48.890 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:25:49.197 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:25:49.381 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:25:49.834 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:25:49.834 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:25:53.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.761 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.828 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.862 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.862 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.958 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:53.990 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:53.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:53.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:54.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:54.006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:54.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:54.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:54.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:54.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:54.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:54.041 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:54.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:25:54.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:25:54.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:25:54.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:27:58.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:27:58.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:27:59.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:27:59.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:27:59.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: KCXZZ
+22:27:59.461 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: TEYEZ
+22:27:59.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: mURfI@gmail.com
+22:27:59.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8484263937
+22:27:59.833 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: ERozG@1099114987
+22:28:10.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [598c6539a264e6e20a3cd98c50d8c1f4, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60317}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60317/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 598c6539a264e6e20a3cd98c50d8c1f4
+22:28:10.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:28:36.136 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:28:36.260 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:28:36.627 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:28:36.903 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:28:37.085 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:28:37.577 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:28:37.578 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:29:07.920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:07.929 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:07.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.629 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.805 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.820 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.820 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.836 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.836 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.852 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.852 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:08.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:08.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:08.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:01.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:30:01.151 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:30:02.502 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:30:02.521 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:30:02.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: DLPVR
+22:30:02.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: EPPLA
+22:30:02.958 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: FZKTv@gmail.com
+22:30:03.122 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 9708328675
+22:30:03.122 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: UQiii@8134200037
+22:30:14.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c5edb617707cd186637c8531b403d9e, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60832}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60832/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c5edb617707cd186637c8531b403d9e
+22:30:14.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:30:17.971 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:30:18.072 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:30:18.425 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:30:18.697 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:30:18.873 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:30:20.026 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:30:20.026 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:30:23.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:23.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:23.766 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.258 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.331 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.333 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.392 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.408 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.408 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.471 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.528 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.553 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:30:24.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:30:24.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:30:24.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:18.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:31:18.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:31:19.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:31:19.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:31:19.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: OGOOS
+22:31:19.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: BSRHH
+22:31:19.797 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: GRspI@gmail.com
+22:31:19.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 2914612874
+22:31:19.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: wjNwr@6706207325
+22:31:30.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c3496792be418474ee6aa87574b8a66, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61186/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c3496792be418474ee6aa87574b8a66
+22:31:30.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:31:34.200 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:31:34.313 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:31:34.713 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:31:35.032 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:31:35.236 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:31:35.922 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:31:35.922 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:31:39.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:39.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:39.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.519 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.552 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.628 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.629 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:40.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:40.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:40.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:45:51.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:45:51.692 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:45:52.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:45:52.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:45:52.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: HHCYW
+22:45:52.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: GLUGX
+22:45:52.809 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: mVvlT@gmail.com
+22:45:52.962 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 1130342548
+22:45:52.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: MEdYb@8831914938
+22:46:03.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56e8fb2e995b06f702b438ca6904e8c9, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63220}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63220/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56e8fb2e995b06f702b438ca6904e8c9
+22:46:03.918 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:46:07.345 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:46:07.470 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:46:07.880 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:46:08.182 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:46:08.372 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:46:08.873 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:46:08.874 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:46:12.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:12.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:12.286 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:12.927 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:12.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:12.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:12.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:12.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:12.961 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.100 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.182 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.258 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.331 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:46:13.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:46:13.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:46:13.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:26.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+22:49:26.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+22:49:26.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Register Link *****
+22:49:27.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Providing Customer Details *****
+22:49:27.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name: SYKQA
+22:49:27.244 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last Name: XOCFF
+22:49:27.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email: QPwTR@gmail.com
+22:49:27.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - Telephone: 8604904844
+22:49:27.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password: DNcWt@0904717227
+22:49:38.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [da273b4e39fb2efb2b0d159426cf1ec1, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\sande\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63948}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63948/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: da273b4e39fb2efb2b0d159426cf1ec1
+22:49:38.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+22:49:41.934 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+22:49:42.056 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on My Account Link *****
+22:49:42.441 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Link *****
+22:49:42.701 [main] INFO  testCases.TC_002_LoginTest - abcdef11g@gmail.com 
+22:49:42.892 [main] INFO  testCases.TC_002_LoginTest - test@123  
+22:49:43.398 [main] INFO  testCases.TC_002_LoginTest - ***** Clicked on Login Button *****
+22:49:43.399 [main] INFO  testCases.TC_002_LoginTest - ***** Test Case Execution Completed *****
+22:49:46.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:46.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:46.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.476 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.822 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:49:47.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:49:47.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:49:47.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

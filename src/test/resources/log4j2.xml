@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+  
+  <!-- ===========================
+       Log4j2 Configuration File
+       =========================== -->
+
+  <!-- Log Levels Hierarchy (Lowest to Highest Priority):
+       ALL < TRACE < DEBUG < INFO < WARN < ERROR < FATAL < OFF
+       - ALL: Captures all log messages (rarely used).
+       - TRACE: Fine-grained information, useful for debugging.
+       - DEBUG: Detailed debug messages, including variable values.
+       - INFO: General application flow information.
+       - WARN: Potential issues that don’t stop execution.
+       - ERROR: Recoverable application errors.
+       - FATAL: Severe issues causing application failure.
+       - OFF: Disables logging completely.
+  -->
+
+  <!-- Properties Section: Define reusable variables -->
+  <Properties>
+    <!-- Base directory for storing log files -->
+    <Property name="basePath">./logs</Property>
+  </Properties>
+
+  <Appenders>
+    
+    <!-- Console Appender: Logs output to the console (terminal) -->
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+
+    <!-- Rolling File Appender: Logs output to a file with rotation policy -->
+    <RollingFile name="File" fileName="${basePath}/automation.log"
+                 filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log.gz">
+      
+      <!-- Log format: Timestamp, Thread, Log Level, Logger Name, and Message -->
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      
+      <!-- Rolling Policy: Creates a new log file when the size exceeds 5MB -->
+      <SizeBasedTriggeringPolicy size="5MB"/>
+      
+      <!-- Uncomment below for time-based rolling (daily logs) -->
+      <!-- <TimeBasedTriggeringPolicy interval="1" modulate="true"/> -->
+      
+    </RollingFile>
+
+  </Appenders>
+
+  <Loggers>
+
+    <!-- Root Logger: Logs all messages with DEBUG level or higher -->
+    <Root level="debug">
+      <AppenderRef ref="Console"/>
+      <AppenderRef ref="File"/>
+    </Root>
+
+    <!-- Uncomment below to configure specific package/module logging levels -->
+    <!-- 
+    <Logger name="com.example" level="info" additivity="false">
+      <AppenderRef ref="File"/>
+    </Logger> 
+    -->
+
+  </Loggers>
+
+</Configuration>
